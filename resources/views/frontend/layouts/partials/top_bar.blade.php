@@ -20,7 +20,7 @@
                                 youremail@gmail.com</a>
                         </div>
                         <div class="phone-box">
-                            <a href="tel:1234567890"><i class="fa fa-phone" aria-hidden="true"></i> +1 234 567 890</a>
+                            <a href="tel: (832) 269-4474"><i class="fa fa-phone" aria-hidden="true"></i>  (832) 269-4474</a>
                         </div>
                     </div>
                 </div>
