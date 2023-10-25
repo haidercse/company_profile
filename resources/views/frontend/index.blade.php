@@ -66,17 +66,13 @@
             <div class="col-md-6">
                 <div class="message-box">
                     <h4>About Us</h4>
-                    <h2>Welcome to GoodWEB Solutions</h2>
-                    <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
-                        enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p>
+                    <h2>Eteq Consultants</h2>
+                    {{-- <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
+                        enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p> --}}
 
-                    <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus
-                        bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis
-                        dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet
-                        libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue
-                        justo. </p>
+                    <p> EteQ Consultants is an IT management consulting and implementation company specializing in AI and cloud services. Our mission is to help businesses leverage the power of AI and the cloud to drive innovation, optimize operations, and achieve their goals..... </p>
 
-                    <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
+                    <a href="{{route('about')}}" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
                 </div><!-- end messagebox -->
             </div><!-- end col -->
 
@@ -100,18 +96,14 @@
 
             <div class="col-md-6">
                 <div class="message-box">
-                    <h4>Who We are</h4>
-                    <h2>We Are GoodWEB Solutions</h2>
-                    <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
-                        enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p>
+                    <h4>WHAT WE DO</h4>
+                    <h2>Our Program</h2>
+                    {{-- <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
+                        enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p> --}}
 
-                    <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus
-                        bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis
-                        dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet
-                        libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue
-                        justo. </p>
+                    <p>Our program management services cover a wide range of areas, including project planning, risk management, stakeholder engagement, quality assurance, and performance management. We provide end-to-end program management support, from the initial planning stages through to program delivery and post-program evaluation.... </p>
 
-                    <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
+                    <a href="{{route('about')}}" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
                 </div><!-- end messagebox -->
             </div><!-- end col -->
         </div><!-- end row -->
@@ -153,13 +145,12 @@
 <div id="services" class="parallax section lb">
     <div class="container">
         <div class="section-title text-center">
-            <h3>Our Service</h3>
-            <p class="lead">Our Service unlimited solutions to all your business needs. in the installation
-                package we prepare search engine optimization, social media support, we provide corporate identity
-                and graphic design services.</p>
+            <h3>Our Services</h3>
+            <h4>Software Consulting</h4>
+            <p class="lead">Unlock the full potential of your business with our expert software consulting services. At EteQ Consultants, we bring extensive experience and technical expertise to the table, helping organizations navigate the complex world of software solutions. Our team of seasoned consultants works closely with clients to understand their unique challenges and goals, offering strategic guidance and tailored recommendations. Whether you need assistance with software selection, system integration, process optimization, or digital transformation initiatives, we have the knowledge and skills to drive your success. Trust our software consulting services to streamline operations, enhance efficiency, and propel your business forward in today’s digital landscape.</p>
         </div><!-- end title -->
-
-        <div class="owl-services owl-carousel owl-theme">
+        <a href="{{route('services')}}" data-scroll class="btn btn-light btn-radius btn-brd">See  More</a>
+        {{-- <div class="owl-services owl-carousel owl-theme">
             <div class="service-widget">
                 <div class="post-media wow fadeIn">
                     <a href="{{asset('uploads/service_01.jpg')}}" data-rel="prettyPhoto[gal]"
@@ -221,7 +212,7 @@
 
         <div class="text-center">
             <a data-scroll href="#portfolio" class="btn btn-light btn-radius btn-brd">View Our Portfolio</a>
-        </div>
+        </div> --}}
     </div><!-- end container -->
 </div><!-- end section -->
 
@@ -254,9 +245,9 @@
 <div id="features" class="section lb">
     <div class="container">
         <div class="section-title text-center">
-            <h3>Features & Overviews</h3>
-            <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-                <br>lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem!</p>
+            <h3>What We Offer</h3>
+            {{-- <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
+                <br>lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem!</p> --}}
         </div><!-- end title -->
 
         <div class="row">
@@ -265,29 +256,29 @@
                     <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
                         <i class="flaticon-wordpress-logo"></i>
                         <div class="fl-inner">
-                            <h4>WordPress Installation</h4>
-                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                            <h4>Cloud Services</h4>
+                            <p>EteQ Consultants offers AWS managed services along with AWS migration and optimization. </p>
                         </div>
                     </li>
                     <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                         <i class="flaticon-windows"></i>
                         <div class="fl-inner">
-                            <h4>Browser Compatible</h4>
-                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                            <h4>Software Solution</h4>
+                            <p>EteQ Consultants ensures state-of-art technology for developing customized software solutions. </p>
                         </div>
                     </li>
                     <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s">
                         <i class="flaticon-price-tag"></i>
                         <div class="fl-inner">
-                            <h4>eCommerce Ready</h4>
-                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                            <h4>Mobile Application</h4>
+                            <p>EteQ Consultants develops innovative and native mobile Apps for Android, iOS, BlackBerry and Windows platforms. </p>
                         </div>
                     </li>
                     <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
                         <i class="flaticon-new-file"></i>
                         <div class="fl-inner">
-                            <h4>Easy to Customize</h4>
-                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                            <h4>Data Analysis</h4>
+                            <p>EteQ Consultants conveys interesting and modified information science arrangements by utilizing different Data Science devices. </p>
                         </div>
                     </li>
                 </ul>
@@ -300,15 +291,15 @@
                     <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
                         <i class="flaticon-pantone"></i>
                         <div class="fr-inner">
-                            <h4>Limitless Colors</h4>
-                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                            <h4>ML/AI based System Implementation</h4>
+                            <p>EteQ Consultants offers an advanced enterprise AI platform that democratizes data science and automates the end-to-end process for building, deploying, and maintaining artificial intelligence and machine learning at scale. </p>
                         </div>
                     </li>
                     <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
                         <i class="flaticon-cloud-computing"></i>
                         <div class="fr-inner">
-                            <h4>Lifetime Update</h4>
-                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                            <h4>Project Management Services</h4>
+                            <p>We work with you to deliver your goals with precision and excellence, bringing together the right resources, processes and technology to ensure success. </p>
                         </div>
                     </li>
                     <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.4s">
@@ -318,13 +309,13 @@
                             <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
                         </div>
                     </li>
-                    <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                    {{-- <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
                         <i class="flaticon-coding"></i>
                         <div class="fr-inner">
                             <h4>Simple Clean Code</h4>
                             <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
                         </div>
-                    </li>
+                    </li> --}}
                 </ul>
             </div><!-- end col -->
         </div><!-- end row -->
@@ -345,12 +336,11 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                            <p class="lead">They have got my project on time with the competition with a sed
-                                highly skilled, and experienced & professional team.</p>
+                            <p class="lead">"Working with ETEQ CONSULTANTS has been a game-changer for our business. Their expertise in software consulting has helped us streamline our operations, improve efficiency, and drive growth. Their team truly understands our unique challenges and provides tailored solutions that deliver exceptional results."</p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_01.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            <h4>John Smith <small>- CEO</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
@@ -359,12 +349,11 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                            <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and
-                                praising pain was born and I will give you completed.</p>
+                            <p class="lead">"The reporting analysis provided by ETEQ CONSULTANTS has been invaluable to our decision-making process. Their comprehensive insights and clear recommendations have helped us optimize our strategies and achieve measurable success. We highly recommend their services for anyone looking to leverage data for business growth."</p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_02.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>Jacques Philips <small>- Designer</small></h4>
+                            <h4>Sarah Johnson <small>- Director of Marketing</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
@@ -373,12 +362,11 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                            <p class="lead">The master-builder of human happines no one rejects, dislikes avoids
-                                pleasure itself, because it is very pursue pleasure. </p>
+                            <p class="lead">"ETEQ CONSULTANTS has been our trusted partner for real-time and data solutions. Their cutting-edge tools and expertise have enabled us to harness the power of real-time data, make data-driven decisions, and stay ahead in a competitive market. Their team's professionalism and dedication are truly commendable." </p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_03.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>Venanda Mercy <small>- Newyork City</small></h4>
+                            <h4>David Thompson <small>- CFO of DEF Company</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
@@ -386,12 +374,11 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                            <p class="lead">They have got my project on time with the competition with a sed
-                                highly skilled, and experienced & professional team.</p>
+                            <p class="lead">"EteQ Consultants has consistently exceeded our expectations from software development to project management. Their commitment to excellence, attention to detail, and ability to deliver projects on time and within budget have made them invaluable to our organization. We highly recommend their services to anyone seeking exceptional results."</p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_01.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            <h4> Emily Roberts <small>- COO of GHI Company</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
@@ -400,29 +387,16 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                            <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and
-                                praising pain was born and I will give you completed.</p>
+                            <p class="lead">"Working with ETEQ CONSULTANTS has been a game-changer for our business. Their expertise in software consulting has helped us streamline our operations, improve efficiency, and drive growth. Their team truly understands our unique challenges and provides tailored solutions that deliver exceptional results.".</p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_02.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>Jacques Philips <small>- Designer</small></h4>
+                            <h4>Ayuk <small>- CEO</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
                     <!-- end testimonial -->
 
-                    <div class="testimonial clearfix">
-                        <div class="desc">
-                            <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                            <p class="lead">The master-builder of human happines no one rejects, dislikes avoids
-                                pleasure itself, because it is very pursue pleasure. </p>
-                        </div>
-                        <div class="testi-meta">
-                            <img src="{{asset('uploads/testi_03.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>Venanda Mercy <small>- Newyork City</small></h4>
-                        </div>
-                        <!-- end testi-meta -->
-                    </div><!-- end testimonial -->
                 </div><!-- end carousel -->
             </div><!-- end col -->
         </div><!-- end row -->

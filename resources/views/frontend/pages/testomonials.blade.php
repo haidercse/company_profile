@@ -17,11 +17,11 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                            <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
+                            <p class="lead">"Working with ETEQ CONSULTANTS has been a game-changer for our business. Their expertise in software consulting has helped us streamline our operations, improve efficiency, and drive growth. Their team truly understands our unique challenges and provides tailored solutions that deliver exceptional results."</p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_01.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            <h4>John Smith <small>- CEO</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
@@ -30,11 +30,11 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                            <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
+                            <p class="lead">"The reporting analysis provided by ETEQ CONSULTANTS has been invaluable to our decision-making process. Their comprehensive insights and clear recommendations have helped us optimize our strategies and achieve measurable success. We highly recommend their services for anyone looking to leverage data for business growth."</p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_02.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>Jacques Philips <small>- Designer</small></h4>
+                            <h4>Sarah Johnson <small>- Director of Marketing</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
@@ -43,11 +43,11 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                            <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
+                            <p class="lead">"ETEQ CONSULTANTS has been our trusted partner for real-time and data solutions. Their cutting-edge tools and expertise have enabled us to harness the power of real-time data, make data-driven decisions, and stay ahead in a competitive market. Their team's professionalism and dedication are truly commendable." </p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_03.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>Venanda Mercy <small>- Newyork City</small></h4>
+                            <h4>David Thompson <small>- CFO of DEF Company</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
@@ -55,11 +55,11 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                            <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
+                            <p class="lead">"EteQ Consultants has consistently exceeded our expectations from software development to project management. Their commitment to excellence, attention to detail, and ability to deliver projects on time and within budget have made them invaluable to our organization. We highly recommend their services to anyone seeking exceptional results."</p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_01.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            <h4> Emily Roberts <small>- COO of GHI Company</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
@@ -68,27 +68,16 @@
                     <div class="testimonial clearfix">
                         <div class="desc">
                             <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                            <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
+                            <p class="lead">"Working with ETEQ CONSULTANTS has been a game-changer for our business. Their expertise in software consulting has helped us streamline our operations, improve efficiency, and drive growth. Their team truly understands our unique challenges and provides tailored solutions that deliver exceptional results.".</p>
                         </div>
                         <div class="testi-meta">
                             <img src="{{asset('uploads/testi_02.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>Jacques Philips <small>- Designer</small></h4>
+                            <h4>Ayuk <small>- CEO</small></h4>
                         </div>
                         <!-- end testi-meta -->
                     </div>
                     <!-- end testimonial -->
 
-                    <div class="testimonial clearfix">
-                        <div class="desc">
-                            <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                            <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
-                        </div>
-                        <div class="testi-meta">
-                            <img src="{{asset('uploads/testi_03.png')}}" alt="" class="img-responsive alignleft">
-                            <h4>Venanda Mercy <small>- Newyork City</small></h4>
-                        </div>
-                        <!-- end testi-meta -->
-                    </div><!-- end testimonial -->
                 </div><!-- end carousel -->
             </div><!-- end col -->
         </div><!-- end row -->

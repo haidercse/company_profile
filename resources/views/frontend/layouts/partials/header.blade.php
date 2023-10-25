@@ -17,10 +17,10 @@
                     <li><a class="{{Route::is('home') ? 'active' : '' }}" href="{{route('home')}}">Home</a></li>
                     <li><a class="{{Route::is('about') ? 'active' : '' }}"  href="{{route('about')}}">About us</a></li>
                     <li><a class="{{Route::is('services') ? 'active' : '' }}" href="{{route('services')}}">Our Services</a></li>
-                    <li><a class="{{Route::is('portfolio') ? 'active' : '' }}" href="{{route('portfolio')}}">Portfolio</a></li>
+                    {{-- <li><a class="{{Route::is('portfolio') ? 'active' : '' }}" href="{{route('portfolio')}}">Portfolio</a></li> --}}
                     <li><a class="{{Route::is('features') ? 'active' : '' }}" href="{{route('features')}}">Features</a></li>
                     <li><a class="{{Route::is('testomonials') ? 'active' : '' }}" href="{{route('testomonials')}}">Testimonials</a></li>
-                    <li><a class="{{Route::is('pricing') ? 'active' : '' }}" href="{{route('pricing')}}">Pricing</a></li>
+                    {{-- <li><a class="{{Route::is('pricing') ? 'active' : '' }}" href="{{route('pricing')}}">Pricing</a></li> --}}
                     <li><a class="{{Route::is('contact') ? 'active' : '' }}" href="{{route('contact')}}">Contact</a></li>
                 </ul>
             </div>
