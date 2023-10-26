@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 @section('title')
-    Services
+    Services - Eteqconsultants
 @endsection
 @section('frontend_panel')
     

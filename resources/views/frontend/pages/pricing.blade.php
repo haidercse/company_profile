@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 @section('title')
-    Pricing
+    Pricing - Eteqconsultants
 @endsection
 @section('frontend_panel')
 <div id="about" class="section wb">

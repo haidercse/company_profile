@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 @section('title')
-    Feature
+    Feature - Eteqconsultants
 @endsection
 @section('frontend_panel')
 <div id="features" class="section lb">

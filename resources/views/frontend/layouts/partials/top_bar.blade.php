@@ -17,7 +17,7 @@
                     <div class="left-top">
                         <div class="email-box">
                             <a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i>
-                                youremail@gmail.com</a>
+                                info@eteqgroup.com</a>
                         </div>
                         <div class="phone-box">
                             <a href="tel: (832) 269-4474"><i class="fa fa-phone" aria-hidden="true"></i>  (832) 269-4474</a>

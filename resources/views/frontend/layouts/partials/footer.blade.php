@@ -38,17 +38,11 @@
                     <div class="widget-title">
                         <h3>Business Hour</h3>
                         <p>Mon: 8:00 AM – 7:00 PM</p>
-
                         <p> Tue: 8:00 AM – 7:00 PM</p>
-
                         <p> Wed: 8:00 AM – 7:00 PM</p>
-
                         <p> Thu: 8:00 AM – 7:00 PM</p>
-
                         <p> Fri: 8:00 AM – 7:00 PM</p>
-
                         <p>Sat: 8:00 AM – 7:00 PM</p>
-
                         <p> Sun: Closed </p>
                     </div>
 

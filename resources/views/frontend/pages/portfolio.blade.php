@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 @section('title')
-    Portfolio
+    Portfolio - Eteqconsultants
 @endsection
 
 @section('frontend_panel')
