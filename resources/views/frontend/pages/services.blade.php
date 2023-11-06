@@ -99,6 +99,8 @@
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
             </div><!-- end row -->
+            <hr class="hr1">
+
             <div class="row">
                 <div class="col-md-6">
                     <div class="message-box">
@@ -119,6 +121,8 @@
                     </div><!-- end media -->
                 </div><!-- end col -->
             </div><!-- end row -->
+            <hr class="hr1">
+
             <div class="text-center" style="margin-top: 20px">
                 <a data-scroll href="{{ route('features') }}" class="btn btn-light btn-radius btn-brd">View Our
                     Portfolio</a>
