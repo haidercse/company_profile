@@ -96,15 +96,13 @@
 
                 <div class="col-md-6">
                     <div class="message-box">
-                        <h4>WHAT WE DO</h4>
-                        <h2>Our Program</h2>
+                        {{-- <h4>WHAT WE DO</h4> --}}
+                        <h2>Mission of Eteq Consultants</h2>
                         {{-- <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
                         enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p> --}}
 
-                        <p>Our program management services cover a wide range of areas, including project planning, risk
-                            management, stakeholder engagement, quality assurance, and performance management. We provide
-                            end-to-end program management support, from the initial planning stages through to program
-                            delivery and post-program evaluation.... </p>
+                        <p>Our mission is to boost the business growth of our clients with ingenious blueprint, 
+                            development and to convey market-defining high-quality solutions ... </p>
 
                         <a href="{{ route('about') }}" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
                     </div><!-- end messagebox -->
@@ -148,15 +146,31 @@
         <div class="container">
             <div class="section-title text-center">
                 <h3>Our Services</h3>
-                <h4>Software Consulting</h4>
-                <p class="lead">Unlock the full potential of your business with our expert software consulting services.
-                    At EteQ Consultants, we bring extensive experience and technical expertise to the table, helping
-                    organizations navigate the complex world of software solutions. Our team of seasoned consultants works
-                    closely with clients to understand their unique challenges and goals, offering strategic guidance and
-                    tailored recommendations. Whether you need assistance with software selection, system integration,
-                    process optimization, or digital transformation initiatives, we have the knowledge and skills to drive
-                    your success. Trust our software consulting services to streamline operations, enhance efficiency, and
-                    propel your business forward in today’s digital landscape.</p>
+                
+                <h4 style="font-weight:bold;">Cloud Services</h4 style="font-weight:bold;">
+                    
+                    <p>EteQ Consultants offers AWS managed services along with AWS migration and optimization</p>
+                    
+                    <h4 style="font-weight:bold;">Software Solution</h4 style="font-weight:bold;">
+                    
+                    <p>EteQ Consultants ensures state-of-art technology for developing customized software solutions for changing customer demands with flawless execution </p>
+                    
+                    <h4 style="font-weight:bold;">Mobile Application</h4 style="font-weight:bold;">
+                    
+                    <p>EteQ Consultants develops innovative and native mobile Apps for Android, iOS, BlackBerry and Windows platforms. </p>
+                    
+                    <h4 style="font-weight:bold;">Data Analysis</h4 style="font-weight:bold;">
+                    
+                    <p>EteQ Consultants conveys interesting and modified information science arrangements by utilizing different Data Science devices and advances It encourages venture organizations to settle on better choices on time by helping them in large information investigation and representation. </p>
+                    
+                    <h4 style="font-weight:bold;">ML/AI based System Implementation</h4 style="font-weight:bold;">
+                    
+                    <p>EteQ Consultants offers an advanced enterprise AI platform that democratizes data science and automates the end-to-end process for building, deploying, and maintaining artificial intelligence and machine learning at scale. </p>
+                    
+                    <h4 style="font-weight:bold;">Project Management Services</h4 style="font-weight:bold;">
+                    
+                    <p>Our program management services provide our clients with a comprehensive approach to managing complex projects and programs. We work with you to deliver your goals with precision and excellence, bringing together the right resources, processes, and technology to ensure success.
+                    </p>
             </div><!-- end title -->
             <a href="{{ route('services') }}" data-scroll class="btn btn-light btn-radius btn-brd">See More</a>
             {{-- <div class="owl-services owl-carousel owl-theme">
@@ -225,7 +239,7 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div class="parallax section noover parallax_05_image" data-stellar-background-ratio="0.7">
+    {{-- <div class="parallax section noover parallax_05_image" data-stellar-background-ratio="0.7">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-6">
@@ -250,14 +264,14 @@
                 </div>
             </div><!-- end row -->
         </div><!-- end container -->
-    </div><!-- end section -->
+    </div><!-- end section --> --}}
 
-    <div id="features" class="section lb">
+    {{-- <div id="features" class="section lb">
         <div class="container">
             <div class="section-title text-center">
                 <h3>What We Offer</h3>
-                {{-- <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-                <br>lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem!</p> --}}
+                <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
+                <br>lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem!</p>
             </div><!-- end title -->
 
             <div class="row">
@@ -326,18 +340,19 @@
                                 <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
                             </div>
                         </li>
-                        {{-- <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                        <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
                         <i class="flaticon-coding"></i>
                         <div class="fr-inner">
                             <h4>Simple Clean Code</h4>
                             <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
                         </div>
-                    </li> --}}
+                    </li>
                     </ul>
                 </div><!-- end col -->
             </div><!-- end row -->
         </div><!-- end container -->
-    </div><!-- end section -->
+    </div> --}}
+    <!-- end section -->
 
     <div id="testimonials" class="parallax section db parallax-off testimonials">
         <div class="container">

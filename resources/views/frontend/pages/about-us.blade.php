@@ -46,20 +46,14 @@
 
                 <div class="col-md-6">
                     <div class="message-box">
-                        <h4>WHAT WE DO</h4>
-                        <h2>Our Program</h2>
+                        {{-- <h4>WHAT WE DO</h4> --}}
+                        <h2>Mission of Eteq Consultants</h2>
                         {{-- <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
                         enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p> --}}
 
-                        <p> Our program management services cover a wide range of areas, including project planning, risk
-                            management, stakeholder engagement, quality assurance, and performance management. We provide
-                            end-to-end program management support, from the initial planning stages through to program
-                            delivery and post-program evaluation</p>
+                        <p>Our mission is to boost the business growth of our clients with ingenious blueprint, 
+                            development and to convey market-defining high-quality solutions that craft value while providing competitive advantage to customers around the globe. </p>
 
-                        <p> Our program management services provide our clients with a comprehensive approach to managing
-                            complex projects and programs. We work with you to deliver your goals with precision and
-                            excellence, bringing together the right resources, processes, and technology to ensure success.
-                        </p>
 
 
                         {{-- <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Learn More</a> --}}

@@ -18,8 +18,8 @@
                         <img src="{{asset('uploads/images.jpg')}}" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
-						<h3>Software Consulting</h3>
-						<p>Unlock the full potential of your business with our expert software consulting services. At EteQ Consultants, we bring extensive experience and technical expertise to the table, helping organizations navigate the complex world of software solutions. Our team of seasoned consultants works closely with clients to understand their unique challenges and goals, offering strategic guidance and tailored recommendations. Whether you need assistance with software selection, system integration, process optimization, or digital transformation initiatives, we have the knowledge and skills to drive your success. Trust our software consulting services to streamline operations, enhance efficiency, and propel your business forward in today’s digital landscape.</p>
+						<h3>Software Solution</h3>
+						<p style="height: 200px;">EteQ Consultants  ensures state-of-art technology for developing customized software solutions for changing customer demands with flawless execution.</p>
 					</div>
                 </div>
                 <!-- end service -->
@@ -30,8 +30,8 @@
                         <img src="{{asset('uploads/download.jpg')}}" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
-						<h3>Real Time and Data</h3>
-						<p>Harness the power of real-time data with our cutting-edge solutions. We provide real-time data analysis and visualization tools that empower businesses to make informed decisions on the fly. Our expertise in data management and processing ensures accurate and up-to-date information at your fingertips, enabling agile and proactive strategies. Stay ahead of the curve with our real-time and data-driven solutions. </p>
+						<h3>Cloud Services</h3>
+						<p style="height: 200px;">EteQ Consultants  offers AWS managed services along with AWS migration and optimization. </p>
 					</div>
                 </div>
                 <!-- end service -->
@@ -39,11 +39,31 @@
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
                         <a href="#" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="{{asset('uploads/reportAnalysis.jpg')}}" alt="" class="img-responsive img-rounded">
+                        <img src="{{asset('uploads/project_management.jpg')}}" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
-						<h3>Report And Analysis</h3>
-						<p>Our reporting analysis services provide comprehensive insights and actionable recommendations. We analyze your data, identify trends, and present clear, concise reports that drive informed decision-making. With our expertise, you can unlock valuable information, optimize performance, and stay ahead of the competition. Trust us to deliver accurate and timely reporting analysis that empowers your business to thrive.</p>
+						<h3>Project Management Services</h3>
+						<p style="height: 200px;">EteQ Consultants provides project management services for IT and construction industries.</p>
+					</div>
+                </div>
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="#" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="{{asset('uploads/data_analysis.jpg')}}" alt="" class="img-responsive img-rounded">
+                    </div>
+					<div class="service-dit">
+						<h3>Data Analysis</h3>
+						<p style="height: 200px;">EteQ Consultants  conveys interesting and modified information science arrangements by utilizing different Data Science devices and advances It encourages venture organizations to settle on better choices on time by helping them in large information investigation and representation.</p>
+					</div>
+                </div>
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="#" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="{{asset('uploads/AI.jpg')}}" alt="" class="img-responsive img-rounded">
+                    </div>
+					<div class="service-dit">
+						<h3>AI/ML</h3>
+						<p style="height: 200px;">EteQ Consultants  offers an advanced enterprise AI platform that democratizes data science and automates the end-to-end process for building, deploying, and maintaining artificial intelligence and machine learning at scale.</p>
 					</div>
                 </div>
                 <!-- end service -->
@@ -64,7 +84,7 @@
             <hr class="hr1">
 
             <div class="text-center">
-                <a data-scroll href="{{route('portfolio')}}" class="btn btn-light btn-radius btn-brd">View Our Portfolio</a>
+                <a data-scroll href="{{route('features')}}" class="btn btn-light btn-radius btn-brd">View Our Portfolio</a>
             </div>
         </div><!-- end container -->
     </div><!-- end section -->
