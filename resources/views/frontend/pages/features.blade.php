@@ -65,6 +65,7 @@
                 </div><!-- end col -->
             </div><!-- end row -->
             <hr class="hr1">
+            
             {{-- 3 --}}
             <div class="row">
                 <div class="col-md-6">
