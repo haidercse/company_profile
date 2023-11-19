@@ -10,7 +10,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{route('home')}}"><img src="{{asset('images/logos/2.png')}}" alt="image"></a>
+                <a class="navbar-brand" href="{{route('home')}}"><img src="{{asset('images/logos/logo_new_1.jpg')}}" alt="image" ></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">

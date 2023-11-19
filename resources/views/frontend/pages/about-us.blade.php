@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 @section('title')
-    About - Eteqconsultants
+    About - EteqGroup
 @endsection
 @section('frontend_panel')
     <div id="about" class="section wb">
@@ -9,18 +9,19 @@
                 <div class="col-md-6">
                     <div class="message-box">
                         <h4>About Us</h4>
-                        <h2>Eteq Consultants</h2>
+                        <h2>Eteq Group</h2>
                         {{-- <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
                         enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p> --}}
 
-                        <p> EteQ Consultants is an IT management consulting and implementation company specializing in AI
-                            and cloud services. Our mission is to help businesses leverage the power of AI and the cloud to
-                            drive innovation, optimize operations, and achieve their goals. We work with clients across a
-                            range of industries to develop customized solutions that meet their unique needs and challenges.
-                            Our team of experts brings deep expertise in AI and cloud technologies, as well as extensive
-                            experience in IT strategy, project management, and implementation. We are dedicated to
-                            delivering results-driven solutions that enable our clients to stay ahead of the curve in the
-                            fast-changing world of technology. </p>
+                        <p> 
+                            Are you prepared to propel your business to new heights in the digital world? Look no further than EteQ Group. We stand as your trusted partner for comprehensive IT management services, cutting-edge software development solutions, and expert project management.
+                        </p>
+<p>Unleash the full potential of your organization with our transformative IT management services. From spearheading digital transformation to optimizing operations and fostering innovation, we are dedicated to ensuring your triumph in the ever-evolving technological landscape. With our expertise and guidance, your business will excel in the digital age.
+Experience the power of our cutting-edge software development solutions. We deliver tailor-made software solutions that empower businesses to thrive in today's digital world. Harnessing innovation, expertise, and creativity, we drive meaningful impact and deliver exceptional outcomes that drive your business forward.</p>
+<p>When it comes to project management, we are the partner of choice. Our unwavering commitment to excellence sets us apart. We consistently deliver successful projects on time, within budget, and surpass expectations. With our exceptional project management expertise, your organization can achieve strategic objectives, maximize business value, and attain unmatched success.
+Join the ranks of thriving businesses that have felt the EteQ Group difference. Embrace the opportunities of the digital age, amplify your growth, and stay ahead of the competition. Contact us today to embark on a journey toward digital transformation, innovation, and unrivaled success. Together, we will empower your business to excel in the dynamic digital landscape. 
+
+                             </p>
 
                         {{-- <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Learn More</a> --}}
                     </div><!-- end messagebox -->
@@ -47,7 +48,7 @@
                 <div class="col-md-6">
                     <div class="message-box">
                         {{-- <h4>WHAT WE DO</h4> --}}
-                        <h2>Mission of Eteq Consultants</h2>
+                        <h2>Mission of Eteq Group</h2>
                         {{-- <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
                         enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p> --}}
 
@@ -73,13 +74,13 @@
                 <div class="col-md-6">
                     <div class="message-box">
                         {{-- <h4>WHAT WE DO</h4> --}}
-                        <h2>Values of Eteq Consultants</h2>
+                        <h2>Values of Eteq Group</h2>
                         {{-- <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
                         enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p> --}}
 
-                        <h4>Values of Eteq Consultants</h4>
+                        <h4>Values of Eteq Group</h4>
                         <p>Intellect and Experience: Exceptionally gifted experts who are skilled in assorted business and
-                            innovation regions make up the EteQ Consultants LLC.</p>
+                            innovation regions make up the EteQ Group LLC.</p>
 
                         <p> Client Service: We measure our success by our customer’s success. To ensure customer
                             satisfaction, we make all our assets accessible to our customers focusing on creating long term

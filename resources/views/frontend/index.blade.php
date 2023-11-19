@@ -13,10 +13,12 @@
                             <div class="slide-text">
                                 <h1 class="homepage-three-title">
                                     Succcessfull Program <span>Management Solution</span> in Tech Industry</h1>
-                                <h2>Driving successfull Solution, Driving Technological , <br>Excellence for your organization. </h2>
+                                <h2>Driving successfull Solution, Driving Technological , <br>Excellence for your
+                                    organization. </h2>
                                 <div class="slider-content-btn">
                                     {{-- <a class="button btn btn-light btn-radius btn-brd" href="#">Read More</a> --}}
-                                    <a class="button btn btn-light btn-radius btn-brd" href="{{route('contact')}}">Contact</a>
+                                    <a class="button btn btn-light btn-radius btn-brd"
+                                        href="{{ route('contact') }}">Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -28,11 +30,14 @@
                     <div class="row">
                         <div class="slider-content-area">
                             <div class="slide-text">
-                                <h1 class="homepage-three-title"> Analyze and Find <span>the perfect solutions</span> for Business</h1>
-                                <h2>trust us to deliver the perfect solutions that driver, <br>your business toward success. </h2>
+                                <h1 class="homepage-three-title"> Analyze and Find <span>the perfect solutions</span> for
+                                    Business</h1>
+                                <h2>trust us to deliver the perfect solutions that driver, <br>your business toward success.
+                                </h2>
                                 <div class="slider-content-btn">
                                     {{-- <a class="button btn btn-light btn-radius btn-brd" href="#">Read More</a> --}}
-                                    <a class="button btn btn-light btn-radius btn-brd" href="{{route('contact')}}">Contact</a>
+                                    <a class="button btn btn-light btn-radius btn-brd"
+                                        href="{{ route('contact') }}">Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -43,12 +48,15 @@
                 <div class="container">
                     <div class="row">
                         <div class="slider-content-area">
-                            <div class="slide-text">  
-                                <h1 class="homepage-three-title">Delivering Successfull Solutions <span>Driving Technological Excellence</span> For Your Organization</h1>
-                                <h2>Driving successfull Solution, Driving Technological , <br>Excellence for your organization.</h2>
+                            <div class="slide-text">
+                                <h1 class="homepage-three-title">Delivering Successfull Solutions <span>Driving
+                                        Technological Excellence</span> For Your Organization</h1>
+                                <h2>Driving successfull Solution, Driving Technological , <br>Excellence for your
+                                    organization.</h2>
                                 <div class="slider-content-btn">
                                     {{-- <a class="button btn btn-light btn-radius btn-brd" href="#">Read More</a> --}}
-                                    <a class="button btn btn-light btn-radius btn-brd" href="{{route('contact')}}">Contact</a>
+                                    <a class="button btn btn-light btn-radius btn-brd"
+                                        href="{{ route('contact') }}">Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -64,13 +72,15 @@
                 <div class="col-md-6">
                     <div class="message-box">
                         <h4>About Us</h4>
-                        <h2>Eteq Consultants</h2>
+                        <h2>EteQ Group</h2>
                         {{-- <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
                         enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p> --}}
 
-                        <p> EteQ Consultants is an IT management consulting and implementation company specializing in AI
-                            and cloud services. Our mission is to help businesses leverage the power of AI and the cloud to
-                            drive innovation, optimize operations, and achieve their goals..... </p>
+                        <p> Are you prepared to propel your business to new heights in the digital world? Look no further than EteQ Group. We stand as your trusted partner for comprehensive IT management services, cutting-edge software development solutions, and expert project management.
+                            Unlock your organization's potential with our transformative IT services, leading digital transformation for success in the evolving tech landscape. Experience our cutting-edge software solutions, driving business forward with tailored innovation and impactful outcomes.
+                            Join the ranks of thriving businesses that embrace the EteQ Group difference. Contact us today to embark on a transformative journey toward digital success, and let us be the catalyst for your business's growth in the dynamic digital landscape.
+                        </p>
+                        
 
                         <a href="{{ route('about') }}" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
                     </div><!-- end messagebox -->
@@ -97,12 +107,11 @@
                 <div class="col-md-6">
                     <div class="message-box">
                         {{-- <h4>WHAT WE DO</h4> --}}
-                        <h2>Mission of Eteq Consultants</h2>
+                        <h2>Mission</h2>
                         {{-- <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula
                         enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p> --}}
 
-                        <p>Our mission is to boost the business growth of our clients with ingenious blueprint, 
-                            development and to convey market-defining high-quality solutions ... </p>
+                        <p>Our mission is to help businesses leverage the power of AI and the cloud to drive innovation, optimize operations, and achieve their goals. We work with clients across a range of industries to develop customized solutions that meet their unique needs and challenges. Our team of experts brings deep expertise in AI and cloud technologies, as well as extensive experience in IT strategy, project management, and implementation. We are dedicated to delivering results-driven solutions that enable our clients to stay ahead of the curve in the fast-changing world of technology. </p>
 
                         <a href="{{ route('about') }}" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
                     </div><!-- end messagebox -->
@@ -146,31 +155,39 @@
         <div class="container">
             <div class="section-title text-center">
                 <h3>Our Services</h3>
-                
+
                 <h4 style="font-weight:bold;">Cloud Services</h4 style="font-weight:bold;">
-                    
-                    <p>EteQ Consultants offers AWS managed services along with AWS migration and optimization</p>
-                    
-                    <h4 style="font-weight:bold;">Software Solution</h4 style="font-weight:bold;">
-                    
-                    <p>EteQ Consultants ensures state-of-art technology for developing customized software solutions for changing customer demands with flawless execution </p>
-                    
-                    <h4 style="font-weight:bold;">Mobile Application</h4 style="font-weight:bold;">
-                    
-                    <p>EteQ Consultants develops innovative and native mobile Apps for Android, iOS, BlackBerry and Windows platforms. </p>
-                    
-                    <h4 style="font-weight:bold;">Data Analysis</h4 style="font-weight:bold;">
-                    
-                    <p>EteQ Consultants conveys interesting and modified information science arrangements by utilizing different Data Science devices and advances It encourages venture organizations to settle on better choices on time by helping them in large information investigation and representation. </p>
-                    
-                    <h4 style="font-weight:bold;">ML/AI based System Implementation</h4 style="font-weight:bold;">
-                    
-                    <p>EteQ Consultants offers an advanced enterprise AI platform that democratizes data science and automates the end-to-end process for building, deploying, and maintaining artificial intelligence and machine learning at scale. </p>
-                    
-                    <h4 style="font-weight:bold;">Project Management Services</h4 style="font-weight:bold;">
-                    
-                    <p>Our program management services provide our clients with a comprehensive approach to managing complex projects and programs. We work with you to deliver your goals with precision and excellence, bringing together the right resources, processes, and technology to ensure success.
-                    </p>
+
+                <p>EteQ Consultants offers AWS managed services along with AWS migration and optimization</p>
+
+                <h4 style="font-weight:bold;">Software Solution</h4 style="font-weight:bold;">
+
+                <p>EteQ Consultants ensures state-of-art technology for developing customized software solutions for
+                    changing customer demands with flawless execution </p>
+
+                <h4 style="font-weight:bold;">Mobile Application</h4 style="font-weight:bold;">
+
+                <p>EteQ Consultants develops innovative and native mobile Apps for Android, iOS, BlackBerry and Windows
+                    platforms. </p>
+
+                <h4 style="font-weight:bold;">Data Analysis</h4 style="font-weight:bold;">
+
+                <p>EteQ Consultants conveys interesting and modified information science arrangements by utilizing different
+                    Data Science devices and advances It encourages venture organizations to settle on better choices on
+                    time by helping them in large information investigation and representation. </p>
+
+                <h4 style="font-weight:bold;">ML/AI based System Implementation</h4 style="font-weight:bold;">
+
+                <p>EteQ Consultants offers an advanced enterprise AI platform that democratizes data science and automates
+                    the end-to-end process for building, deploying, and maintaining artificial intelligence and machine
+                    learning at scale. </p>
+
+                <h4 style="font-weight:bold;">Project Management Services</h4 style="font-weight:bold;">
+
+                <p>Our program management services provide our clients with a comprehensive approach to managing complex
+                    projects and programs. We work with you to deliver your goals with precision and excellence, bringing
+                    together the right resources, processes, and technology to ensure success.
+                </p>
             </div><!-- end title -->
             <a href="{{ route('services') }}" data-scroll class="btn btn-light btn-radius btn-brd">See More</a>
             {{-- <div class="owl-services owl-carousel owl-theme">
@@ -358,8 +375,8 @@
         <div class="container">
             <div class="section-title text-center">
                 <h3>Testimonials</h3>
-                <p class="lead">We thanks for all our awesome testimonials! There are hundreds of our happy
-                    customers! <br>Let's see what others say about GoodWEB Solutions website template!</p>
+                <p class="lead">We thanks for all our awesome testimonials! There are hundreds of our happy customers!
+                    <br>Let's see what others say about ETEQ GROUP website template!</p>
             </div><!-- end title -->
 
             <div class="row">
@@ -368,8 +385,8 @@
                         <div class="testimonial clearfix">
                             <div class="desc">
                                 <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">"Working with ETEQ CONSULTANTS has been a game-changer for our business.
-                                    Their expertise in software consulting has helped us streamline our operations, improve
+                                <p class="lead">"Working with ETEQ GROUP has been a game-changer for our business. Their
+                                    expertise in software consulting has helped us streamline our operations, improve
                                     efficiency, and drive growth. Their team truly understands our unique challenges and
                                     provides tailored solutions that deliver exceptional results."</p>
                             </div>
@@ -385,10 +402,10 @@
                         <div class="testimonial clearfix">
                             <div class="desc">
                                 <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">"The reporting analysis provided by ETEQ CONSULTANTS has been invaluable
-                                    to our decision-making process. Their comprehensive insights and clear recommendations
-                                    have helped us optimize our strategies and achieve measurable success. We highly
-                                    recommend their services for anyone looking to leverage data for business growth."</p>
+                                <p class="lead">"The reporting analysis provided by ETEQ GROUP has been invaluable to our
+                                    decision-making process. Their comprehensive insights and clear recommendations have
+                                    helped us optimize our strategies and achieve measurable success. We highly recommend
+                                    their services for anyone looking to leverage data for business growth."</p>
                             </div>
                             <div class="testi-meta">
                                 <img src="{{ asset('uploads/testi_02.png') }}" alt=""
@@ -402,7 +419,7 @@
                         <div class="testimonial clearfix">
                             <div class="desc">
                                 <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">"ETEQ CONSULTANTS has been our trusted partner for real-time and data
+                                <p class="lead">"ETEQ GROUP has been our trusted partner for real-time and data
                                     solutions. Their cutting-edge tools and expertise have enabled us to harness the power
                                     of real-time data, make data-driven decisions, and stay ahead in a competitive market.
                                     Their team's professionalism and dedication are truly commendable." </p>
@@ -418,11 +435,11 @@
                         <div class="testimonial clearfix">
                             <div class="desc">
                                 <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">"EteQ Consultants has consistently exceeded our expectations from
-                                    software development to project management. Their commitment to excellence, attention to
-                                    detail, and ability to deliver projects on time and within budget have made them
-                                    invaluable to our organization. We highly recommend their services to anyone seeking
-                                    exceptional results."</p>
+                                <p class="lead">"ETEQ GROUP has consistently exceeded our expectations from software
+                                    development to project management. Their commitment to excellence, attention to detail,
+                                    and ability to deliver projects on time and within budget have made them invaluable to
+                                    our organization. We highly recommend their services to anyone seeking exceptional
+                                    results."</p>
                             </div>
                             <div class="testi-meta">
                                 <img src="{{ asset('uploads/testi_01.png') }}" alt=""
@@ -436,8 +453,8 @@
                         <div class="testimonial clearfix">
                             <div class="desc">
                                 <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">"Working with ETEQ CONSULTANTS has been a game-changer for our business.
-                                    Their expertise in software consulting has helped us streamline our operations, improve
+                                <p class="lead">"Working with ETEQ GROUP has been a game-changer for our business. Their
+                                    expertise in software consulting has helped us streamline our operations, improve
                                     efficiency, and drive growth. Their team truly understands our unique challenges and
                                     provides tailored solutions that deliver exceptional results.".</p>
                             </div>

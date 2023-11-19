@@ -6,9 +6,7 @@
                     {{-- <div class="widget-title">
                         <img src="{{asset('images/logos/logo-2.png')}}" alt="" />
                     </div> --}}
-                    <p> EteQ Consultants offers an advanced enterprise AI platform that democratizes data science and
-                        automates the end-to-end process for building, deploying, and maintaining artificial
-                        intelligence and machine learning at scale. </p>
+                    <p> EteQ Group offers an advanced enterprise AI platform that democratizes data science and automates the end-to-end process for building, deploying, and maintaining artificial intelligence and machine learning at scale. </p>
                 </div><!-- end clearfix -->
             </div><!-- end col -->
 

@@ -8,8 +8,7 @@
         <div class="container">
             <div class="section-title text-center">
                 <h3>Get in touch</h3>
-                <p class="lead">Let us give you more details about the special offer website you want us. Please fill out
-                    the form below. <br>We have million of website owners who happy to work with us!</p>
+                <p class="lead">Get in touch with EteQ Group today! Allow us to provide you with comprehensive information about the unique website solutions we offer.  <br>Simply complete the form below, and join the millions of satisfied website owners who have chosen to partner with us for their digital needs.</p>
             </div><!-- end title -->
 
             <div class="row">
